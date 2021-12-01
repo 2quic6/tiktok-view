@@ -47,4 +47,4 @@ print(Fore.GREEN)
 url = input('Please enter here TikTok video URL: \n')
 print(Fore.WHITE)
 
-views(url)
+views(https://www.tiktok.com/@afgx/video/7035038043820313903?is_from_webapp=1&sender_device=pc&web_id7026163670031992325)
